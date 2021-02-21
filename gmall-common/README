@@ -1,0 +1,12 @@
+common包是公共模块
+当自己导入自己的包时
+多个子模块使用的时候
+就会调用这个模块
+公共模块提高效率
+
+比如
+hadoop体系
+hdfs
+yarn
+mapreduce
+common(工具包,常量)

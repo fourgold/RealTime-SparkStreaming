@@ -1,0 +1,7 @@
+test里面是不用的
+要删除
+spring自带启动
+启动一个tomcat
+为了解决日志的依赖关系
+把sparkCase作为springboot子模块
+把logger作为sparkCase子模块

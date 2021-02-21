@@ -1,0 +1,5 @@
+web端口
+Controller(对接Web端口) 这个最重要
+Service(数据加工)
+DAO(对接数据)
+持久化层(MYSQL)
